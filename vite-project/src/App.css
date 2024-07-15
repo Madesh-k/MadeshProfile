@@ -1,0 +1,180 @@
+body{
+  width:550px;
+  height: 868px;
+  background:#23252C;
+
+}
+img{
+   width: 317px;
+   height: 317px;
+   margin-top: 44px;
+   margin-left: 116px;
+   border-radius: 10px 10px 0px 0px;
+}
+.details{
+  width: 550px;
+  background: #1A1B21;
+
+}
+.details-name{
+  width: 178.06px;
+  height: 25.81px;
+  margin-top: 42px;
+  margin-left: 186px;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30.26px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+.details-job{
+  width: 178.06px;
+  height: 14.19px;
+  margin-left: 190px;
+  font-family: Inter,sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 30.26px;
+  text-align: center;
+  justify-content: inline;
+  color: #F3BF99;
+   
+}
+.details-website{
+  width: 228px;
+  height: 16px;
+  margin-left: 161px;
+  font-family: Inter;
+  font-size: 13px;
+ font-weight: 400;
+ line-height: 15.36px;
+ text-align: center;
+ color: #F5F5F5;
+
+}
+.details-linkedin{
+  width:115px;
+  height:34ppx;
+  margin-left: 32px; 
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+  border-radius: 6px ;
+  background: #5093E2;
+}
+.details-linkedin b {
+  width: 57px;
+  height: 16px;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: left;
+  color:#FFFFFF
+}
+.details-linkedin i{
+font-size: large;
+margin-right: 6px; 
+padding: 1.33px;
+color: #FFFFFF;
+}
+.details-email{
+  width: 115px;
+height: 34ppx;
+margin-left: 145px;
+padding: 9px 13px 9px 11px;
+gap: 8px;
+border-radius: 6px;
+border: 1px ;
+
+}
+.details-email b{
+  width: 36px;
+  height: 16px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: left;
+
+}
+.details-email i{
+  width: 26px; 
+ height: 16px;
+ font-size: medium;
+}
+.content{
+  width: 247px;
+  height: 200%;
+  margin-left: 152px;
+
+}
+.c-about{
+  width: 242.71px;
+  height: 21px;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  color: #F5F5F5;
+ 
+}
+.c-about-in{
+  width: 247px;
+height: 61px;
+margin-top:10px;
+left: 152px;
+font-family: Inter;
+font-size: 15px;
+font-weight: 500;
+line-height: 15.36px;
+text-align: left;
+color: #DCDCDC;
+
+}
+.c-interest{
+  width: 242.71px;
+height: 21px;
+margin-top: 80px;
+font-family: Inter;
+font-size: 30px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #F5F5F5;
+
+}
+.c-interest-in{
+  width: 247px;
+  height: 61px;
+ font-family: Inter;
+ font-size: 15px;
+ font-weight: 500;
+ line-height: 15.36px;
+ text-align: left;
+ color: #DCDCDC;
+
+}
+.links{
+  width:516px;
+ height: 120px;
+ margin-top: 100px;
+border-radius: 10px 10px;
+background: #161619;
+align-items: center;
+justify-content:center ;
+padding: 20px;
+}
+.li{
+  font-size: 30px;
+  margin-left:190px;
+  
+}
+.inst{
+  padding-left: 20px;
+}
+.git{
+  padding-left:20px ;
+}
